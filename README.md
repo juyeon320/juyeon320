@@ -1,9 +1,14 @@
 ### oss수업관련 👋
-🔭 I’m currently working on studying about computer software and server develop
-🌱 I’m currently learning ... c, c++, python, django restframework. winter vacation >> java,javascript,nodejs
-👯 I’m looking to collaborate on web, app 
+🔭 I’m currently working on studying about computer software and server develop.
+
+🌱 I’m currently learning ... c, c++, python, django restframework. winter vacation >> java,javascript,nodejs.
+
+👯 I’m looking to collaborate on web, app .
+
 🤔 I’m looking for help with backend.
+
 📫 How to reach me:  ju010320@naver.com
+
 ⚡ Fun fact: Actually...I started studying computer this year!
 <!--
 **juyeon320/juyeon320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
