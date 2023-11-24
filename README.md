@@ -1,13 +1,5 @@
 ### oss수업관련 👋
-🔭 I’m currently working on studying about computer software and server develop.
 
-🌱 I’m currently learning ... c, c++, python, django restframework. winter vacation >> java,javascript,nodejs.
-
-👯 I’m looking to collaborate on web, app .
-
-🤔 I’m looking for help with backend.
-
-📫 How to reach me:  ju010320@naver.com
 
 ⚡ Fun fact: Actually...I started studying computer this year!
 <!--
