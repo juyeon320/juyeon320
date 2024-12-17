@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:EEFF00,100:a82da8&height=300&section=header&text=Juyeoni's%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=F6B8CE&height=300&section=header&text=Juyeoni's%20Github&fontSize=90)
 
 <!--
 **juyeon320/juyeon320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
