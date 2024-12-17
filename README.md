@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=F6B8CE&height=300&section=header&text=Juyeoni's%20Github&fontColor=CAC9CA&fontSize=90)
-
+![header](https://capsule-render.vercel.app/api?type=rounded&color=F6B8CE&height=300&section=header&text=Juyeoni's%20Github&fontColor=5b5b5b&fontSize=90&animation=fadeIn)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E4B3CD&width=435&lines=Welcome+to+my+github!;I'm+cloud+engineer)](https://git.io/typing-svg)
 <!--
 **juyeon320/juyeon320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
